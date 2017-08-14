@@ -1,0 +1,35 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-image: url("https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/hs-2015-29-a-xlarge_web.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: mediumvioletred;
+}
+
+
+.individual{
+    border: gold solid 2px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+.list-img {
+    width: 200px;    
+}
+
+#heroes-logo {
+    width: 70em;
+}
+
+#button-div{
+    margin-top: 40px;
+}
+
+button {
+    border: blue solid 2px;
+    background-color: magenta;
+    width: 250px;
+    height: 50px;
+    transform: translateX(30%)
+}

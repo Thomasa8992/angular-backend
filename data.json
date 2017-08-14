@@ -1,13 +1,11 @@
 [
-    {"id": "1", "category": "Assassin", "name": "Kael'thas", "img": "http://media.blizzard.com/heroes/kaelthas/bust.jpg"}, 
-    {"id": "2", "category": "Assassin", "name": "Thrall", "img": "http://media.blizzard.com/heroes/thrall/bust.jpg"},
-    {"id": "3", "category": "Assassin", "name": "Valeera", "img": "http://media.blizzard.com/heroes/valeera/bust.jpg"},
-    {"id": "4", "category": "Warrior", "name": "Muradin", "img": "http://media.blizzard.com/heroes/muradin/bust.jpg"},
-    {"id": "5", "category": "Warrior", "name": "Garrosh", "img": "http://media.blizzard.com/heroes/garrosh/bust.jpg"},
-    {"id": "6", "category": "Warrior", "name": "Chen", "img": "http://media.blizzard.com/heroes/chen/bust.jpg"},
-    {"id": "7", "category": "Warrior", "name": "Arthas", "img": "http://media.blizzard.com/heroes/arthas/bust.jpg"},
-    {"id": "8", "category": "Support", "name": "Mafurion", "img": "http://media.blizzard.com/heroes/malfurion/bust.jpg"},
-    {"id": "9", "category": "Support", "name": "Uther", "img": "http://media.blizzard.com/heroes/uther/bust.jpg"},
-    {"id": "10", "category": "Support", "name": "Tyrande", "img": "Zhttp://media.blizzard.com/heroes/tyrande/bust.jpg"}
-    
+    {"id": "1", "className": "Assassin", "name": "Kael'thas", "img": "http://media.blizzard.com/heroes/kaelthas/bust.jpg"}, 
+    {"id": "2", "className": "Assassin", "name": "Thrall", "img": "http://media.blizzard.com/heroes/thrall/bust.jpg"},
+    {"id": "3", "className": "Assassin", "name": "Valeera", "img": "http://media.blizzard.com/heroes/valeera/bust.jpg"},
+    {"id": "4", "className": "Warrior", "name": "Muradin", "img": "http://media.blizzard.com/heroes/muradin/bust.jpg"},
+    {"id": "5", "className": "Warrior", "name": "Garrosh", "img": "http://media.blizzard.com/heroes/garrosh/bust.jpg"},
+    {"id": "7", "className": "Warrior", "name": "Arthas", "img": "http://media.blizzard.com/heroes/arthas/bust.jpg"},
+    {"id": "8", "className": "Support", "name": "Mafurion", "img": "http://media.blizzard.com/heroes/malfurion/bust.jpg"},
+    {"id": "9", "className": "Support", "name": "Uther", "img": "http://media.blizzard.com/heroes/uther/bust.jpg"},
+    {"id": "10", "className": "Support", "name": "Tyrande", "img": "http://media.blizzard.com/heroes/tyrande/bust.jpg"}
 ]
