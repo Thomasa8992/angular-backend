@@ -1,10 +1,10 @@
-
 <div ng-controller="singleCategory">
+    <h2> {{ oneCategory.className }} </h2>        
     <div ng-repeat="category in oneCategory" >
-        <div class="individual">
-            <p> {{ category.name }} </p>
-            <p> {{ category.className }} </p>
-            <img ng-src="{{ category.img }}" alt="hero from Heroes of the Storm" />
+        <div class="individual class">
+            <h2> {{ category.name }} </h2>
+            <h3> {{ category.className }} </h3>
+            <img class="list-img" ng-src="{{ category.img }}" alt="hero from Heroes of the Storm" />
         </div>
     </div>
 </div>

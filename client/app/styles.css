@@ -10,12 +10,18 @@ body{
 
 .individual{
     border: gold solid 2px;
-    width: 250px;
-    margin-top: 20px;
+    width: 270px;
+    margin: 20px 20px;;
+    background-color: darkblue;
+    border-radius: 10px;
+    display: inline-block;
+    float: left;
 }
 
 .list-img {
-    width: 200px;    
+    width: 250px;
+    transform: translate(4%, -2%);    
+    border-radius: 10px;
 }
 
 #heroes-logo {
@@ -31,5 +37,29 @@ button {
     background-color: magenta;
     width: 250px;
     height: 50px;
-    transform: translateX(30%)
+    transform: translateX(30%);
+}
+
+.container {
+    position: relative;
+    width: 1200px;
+    height: 1200px;
+    margin-left: 110px;
+}
+
+h2, h3 {
+    margin-left: 15px;
+}
+
+.single {
+    transform: translate(170%, 50%);
+}
+
+.class {
+    margin-left: 75px;
+    transform: translateY(50%);
+}
+
+.header {
+    text-align: center;
 }
